@@ -6,6 +6,7 @@ draft: false
 description: "Icon support in Blowfish."
 slug: "icons"
 tags: ["icons", "sample", "shortcodes"]
+type: 'sample'
 ---
 
 Blowfish has built-in support for a number of [FontAwesome 6](https://fontawesome.com/icons) icons. These can be included in your website through either the [icon partial]({{< ref "docs/partials#icon" >}}) or [icon shortcode]({{< ref "docs/shortcodes#icon" >}}).
@@ -40,10 +41,12 @@ The full list of built-in icons and their corresponding names can referenced bel
 | facebook             | {{< icon facebook >}}             |
 | fire                 | {{< icon fire >}}                 |
 | flickr               | {{< icon flickr >}}               |
+| fork                 | {{< icon fork >}}                 |
 | foursquare           | {{< icon foursquare >}}           |
 | ghost                | {{< icon ghost >}}                |
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
+| globe                | {{< icon globe >}}                |
 | goodreads            | {{< icon goodreads >}}            |
 | google               | {{< icon google >}}               |
 | hackernews           | {{< icon hackernews >}}           |
@@ -78,6 +81,8 @@ The full list of built-in icons and their corresponding names can referenced bel
 | poo                  | {{< icon poo >}}                  |
 | reddit               | {{< icon reddit >}}               |
 | researchgate         | {{< icon researchgate >}}         |
+| rss                  | {{< icon rss >}}                  |
+| rss-square           | {{< icon rss-square >}}           |
 | search               | {{< icon search >}}               |
 | shield               | {{< icon shield >}}               |
 | skull-crossbones     | {{< icon skull-crossbones >}}     |
@@ -85,8 +90,10 @@ The full list of built-in icons and their corresponding names can referenced bel
 | snapchat             | {{< icon snapchat >}}             |
 | soundcloud           | {{< icon soundcloud >}}           |
 | stack-overflow       | {{< icon stack-overflow >}}       |
+| star                 | {{< icon star >}}                 |
 | steam                | {{< icon steam >}}                |
 | stripe               | {{< icon stripe >}}               |
+| substack             | {{< icon substack >}}             |
 | sun                  | {{< icon sun >}}                  |
 | tag                  | {{< icon tag >}}                  |
 | telegram             | {{< icon telegram >}}             |
